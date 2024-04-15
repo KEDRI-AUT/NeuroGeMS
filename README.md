@@ -4,7 +4,7 @@
 
 > A comprehensive software platform for multimodal learning and biomedical research, developed by the Knowledge Engineering and Discovery Research Institute (KEDRI) at Auckland University of Technology (AUT), New Zealand.
 
-![NeuroGeMS Screenshot](https://user-images.githubusercontent.com/8584126/95290114-59e42900-0821-11eb-8e43-a708959e8449.gif)
+![NeuroGeMS Screenshot](./public/assets/preview.png)
 
 ## 🌟 Features
 
